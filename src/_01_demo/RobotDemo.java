@@ -17,6 +17,7 @@ public class RobotDemo {
 
 		// This code makes a new Robot
 		Robot rob = new Robot();
+		rob.miniaturize();
 
 		// PEN. Put the robot's pen down so it can draw, Use this command:
 		rob.penDown();
