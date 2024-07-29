@@ -16,7 +16,7 @@ public class RobotSpiral {
 		// Set your robot's pen down 
 		rob.penDown();
 		// SPEED. Set the robot to go at max speed (100)
-rob.setSpeed(100);
+rob.sets
 		// COUNT. Create an int variable that will count how many lines of the spiral we have drawn.
 			//        Start its value as zero.
 		int count = 0;
